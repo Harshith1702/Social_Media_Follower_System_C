@@ -44,11 +44,13 @@ All interactions are done through a **menu-driven console interface**.
 ---
 
 ## File Structure
+```text
 Social_Media_Follower_System_C/
 ├── README.md
 ├── Social_Media_Follower_System.c
 ├── users.txt
 └── follows.txt
+```
 
 ---
 
